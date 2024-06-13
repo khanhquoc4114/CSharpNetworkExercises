@@ -1,0 +1,26 @@
+[
+    {
+        "TenPhim": "Đào, phở và piano",
+        "GiaVeChuan": 45000,
+        "PhongChieu": [1, 2, 3],
+        "Poster": "https://cdn.tgdd.vn/News/1561565/dao3-1280x720.jpg"
+    },
+    {
+        "TenPhim": "Mai",
+        "GiaVeChuan": 100000,
+        "PhongChieu": [2, 3],
+        "Poster": "https://i.ytimg.com/vi/_NfkgaVNt3E/maxresdefault.jpg"
+    },
+    {
+        "TenPhim": "Gặp lại chị bầu",
+        "GiaVeChuan": 70000,
+        "PhongChieu": [1],
+        "Poster": "https://cinestar-api.monamedia.net/media/.renditions/wysiwyg/gap-lai-chi-bau.jpg"
+    },
+    {
+        "TenPhim": "Tarot",
+        "GiaVeChuan": 90000,
+        "PhongChieu": [3],
+        "Poster": "https://iguov8nhvyobj.vcdn.cloud/media/catalog/product/cache/1/image/1800x/71252117777b696995f01934522c402d/6/4/640x396-tarot.jpg"
+    }
+]

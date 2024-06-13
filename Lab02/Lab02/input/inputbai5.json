@@ -1,0 +1,12 @@
+[
+{
+"ten": "A",
+"giavechuan": 12000,
+"phongchieu": [ 1, 4, 3 ]
+},
+{
+"ten": "B",
+"giavechuan": 8000,
+"phongchieu": [ 1, 3 ]
+}
+]
